@@ -1,0 +1,1 @@
+This simple keylogger project captures and saves all keyboard presses to a text file. It's a great way to learn about how programs can respond to events and handle files in Python. This project is intended for educational use only.
