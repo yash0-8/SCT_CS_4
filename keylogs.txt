@@ -1,0 +1,1 @@
+this [Key.space] is [Key.space] a [Key.space] test [Key.space] for [Key.space] key [Key.space] logger [Key.space] program [Key.esc] 
